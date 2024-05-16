@@ -248,8 +248,8 @@ if selected_sector is None:
 
     # Contributors at the bottom
     st.write("### Contributors:")
-    st.write("- Saisrikar Bollapragada")
-    st.write("- Jaswanth Goraka")
+    st.write("- Sai Srikar Bollapragada")
+    st.write("- Jashwanth Goraka")
     st.write("- Akhilteja Jampani")
     st.write("- Aditya Kiran M")
 
