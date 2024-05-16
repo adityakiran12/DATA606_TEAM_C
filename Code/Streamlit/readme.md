@@ -7,8 +7,6 @@ This project aims to analyze sentiments and detect trends in social media posts 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [Guidance](#guidance)
 
 ## Introduction
 
