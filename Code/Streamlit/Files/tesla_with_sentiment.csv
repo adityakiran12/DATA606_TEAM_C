@@ -1,0 +1,9 @@
+﻿Estimator,R2 Mean,RMSE Mean,NRMSE Mean,
+0,lr,0.909,0.105,0.022
+1,lassocv,0.908,0.106,0.022
+2,ridge,0.91,0.105,0.022
+3,elastic,0.908,0.106,0.022
+4,RandomForest,0.797,0.181,0.038
+5,DecisionTree,0.753,0.199,0.042
+6,SVR,0.544,0.229,0.055
+7,XGBoost,-2.093,0.519,0.126
